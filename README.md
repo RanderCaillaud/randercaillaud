@@ -48,6 +48,7 @@ Atualmente estudando **Python, SQL, Power BI, LookerStudio, Django e Excel**.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=randercaillaud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randercaillaud&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 🔥 GitHub Streak
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=randercaillaud&theme=dracula" alt="GitHub Streak"/>
