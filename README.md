@@ -1,7 +1,7 @@
 ### Olá!!! Seja bem vindo ao meu Perfil!!! 👋
 
-Eu sou Rander Caillaud. Sou um **Profissinal em transição para área de dados, Python e Backend.** 👨🏼‍💻 focado em aprendizado contínuo, análise de dados e automação de processos.  
-Atualmente estudando **Python, SQL, Power BI, LookerStudio, Django e Excel**.
+Eu sou Rander Caillaud. Sou um **Profissinal em transição para área de auxiliar administrativo e web-Backend.** 👨🏼‍💻 focado em aprendizado contínuo, análise de dados e automação de processos.  
+Atualmente estudando **Python, Javascript, DAX, SQL, Power BI, LookerStudio, Django, CRM e Excel**.
 
 ---
 
