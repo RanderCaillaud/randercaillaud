@@ -1,6 +1,6 @@
 ### Olá!!! Seja bem vindo ao meu Perfil!!! 👋
 
-Eu sou Rander Caillaud. Sou um **Profissinal em transição para área de auxiliar administrativo e web-Backend.** 👨🏼‍💻 focado em aprendizado contínuo, análise de dados e automação de processos.  
+Eu sou Rander Caillaud. Sou um **Profissinal da área de auxiliar administrativo-tech.** 👨🏼‍💻 focado em aprendizado contínuo, análise de dados e automação de processos.  
 Atualmente estudando **Python, Javascript, DAX, SQL, Power BI, LookerStudio, Django, CRM e Excel**.
 
 ---
