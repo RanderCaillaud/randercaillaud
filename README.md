@@ -8,23 +8,19 @@ Atualmente estudando **Python, Javascript, DAX, SQL, Power BI, LookerStudio, Dja
 ## 🔭 O que estou aprendendo 📔📖
 
 1. Estudando **Python e bibliotecas**: `pandas`, `numpy`,`Django` `matplotlib`, `SQL`, Ferramenta de Visualização
-2.  Criando **dashboards interativos** no PowerBI, Google LookerStudio e Excel
+2.  Criando **dashboards interativos** no PowerBI, Google LookerStudio, Google sheets e Excel
 
 ### 🛠️ Linguagens e Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[DAX](https://img.shields.io/badge/-DAX-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 
-### Ambiente Python
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ### IDEs e Editores
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 
 ### Ferramentas de API
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-FF6B35?style=for-the-badge)
 
 ### 🧩 ⚙️ 🧱 📊  Bibliotecas Python
@@ -33,15 +29,19 @@ Atualmente estudando **Python, Javascript, DAX, SQL, Power BI, LookerStudio, Dja
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 
 ### 🛠️ Ferramentas
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-34A853?style=for-the-badge&logo=googleanalytics&logoColor=white)
+[Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+[MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[Looker Studio](https://img.shields.io/badge/Looker_Studio-34A853?style=for-the-badge&logo=googleanalytics&logoColor=white)
+[Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+[Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+[Power Query](https://img.shields.io/badge/-Power%20Query-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ### 🤖 ⚙️  ✨ Automação
-![SMTP](https://img.shields.io/badge/Email_Automation-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-4B8BBE?style=for-the-badge)
-![Python-dotenv](https://img.shields.io/badge/.env-ECD53F?style=for-the-badge)
+[SMTP](https://img.shields.io/badge/Email_Automation-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+[OpenPyXL](https://img.shields.io/badge/OpenPyXL-4B8BBE?style=for-the-badge)
+[Python-dotenv](https://img.shields.io/badge/.env-ECD53F?style=for-the-badge)
+[VBA & Macros](https://img.shields.io/badge/-VBA%20%26%20Macros-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 📊 Estatísticas GitHub
 <div align="center">
