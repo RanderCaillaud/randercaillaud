@@ -7,7 +7,7 @@ Atualmente estudando **Python, Javascript, DAX, SQL, Power BI, LookerStudio, Dja
 
 ## 🔭 O que estou aprendendo 📔📖
 
-1. Estudando **Python e bibliotecas**: `pandas`, `numpy`,`Django` `matplotlib`, `SQL`, Ferramenta de Visualização
+1. Estudando **Python e bibliotecas**: `pandas`, `numpy`,`Django`,`matplotlib`,`SQL`, Ferramenta de Visualização
 2.  Criando **dashboards interativos** no PowerBI, Google LookerStudio, Google sheets e Excel
 
 ### 🛠️ Linguagens e Frameworks
@@ -43,13 +43,13 @@ Atualmente estudando **Python, Javascript, DAX, SQL, Power BI, LookerStudio, Dja
 ![Python-dotenv](https://img.shields.io/badge/.env-ECD53F?style=for-the-badge)
 ![VBA & Macros](https://img.shields.io/badge/-VBA%20%26%20Macros-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-📊 Estatísticas GitHub
+## 📊 Estatísticas GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=randercaillaud&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randercaillaud&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-🔥 GitHub Streak
+## 🔥 GitHub Streak
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=randercaillaud&theme=dracula" alt="GitHub Streak"/>
 </div>
