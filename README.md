@@ -36,7 +36,7 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 
 ---
 
-## Ambiente local
+## 📦 🖥️ 💻🔑🛡 Ambiente local
 
 ![Laragon](https://img.shields.io/badge/Laragon-Local%20Environment-0E83CD?logo=windows-terminal&logoColor=white)
 ![WampServer](https://img.shields.io/badge/WampServer-Local%20Server-blue?logo=windows&logoColor=white)
@@ -45,7 +45,7 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 ![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?logo=php&logoColor=white)
 
 ---
-## Help Desk
+## 📶📊📈 Help Desk
 
 ![osTicket](https://img.shields.io/badge/osTicket-Helpdesk-009688?logo=opensourceinitiative&logoColor=white)
 ![Hesk](https://img.shields.io/badge/Hesk-Helpdesk-1E88E5?logo=php&logoColor=white)
@@ -54,7 +54,7 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 
 ---
 
-## CRM/ERP
+## 👨🏻‍💻 CRM/ERP
 
 ![Dolibarr](https://img.shields.io/badge/Dolibarr-ERP%20%2F%20CRM-0072C6?logo=opensourceinitiative&logoColor=white)
 ![EspoCRM](https://img.shields.io/badge/EspoCRM-CRM-2E7D32?logo=php&logoColor=white)
@@ -62,12 +62,12 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 
 ---
 
-### IDEs e Editores
+### 👨🏻‍💻🛠️ IDEs e Editores
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ----
 
-### Ferramentas de API
+### 🛠️ Ferramentas de API
 ![Bruno](https://img.shields.io/badge/Bruno-FF6B35?style=for-the-badge)
 
 ---
