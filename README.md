@@ -2,7 +2,7 @@
 
 Eu sou Rander Caillaud. Sou um profissional **administrativo-tech** em transição de carreira, com foco em **Suporte Técnico Júnior, CRM, ERP e Helpdesk**.
 
-Aprendo mais **fazendo do que lendo** — então tudo que estudo vira prática, e tudo que pratico vira documentação. Sou curioso por natureza, resolvo problemas de forma analítica e criativa, e tenho um certo prazer em deixar tudo organizado para não se perder — e para que outros também possam aprender.
+Aprendo mais **fazendo do que lendo**  então tudo que estudo vira prática, e tudo que pratico vira documentação. Sou curioso por natureza, resolvo problemas de forma analítica e criativa, e tenho um certo prazer em deixar tudo organizado para não se perder e para que outros também possam aprender.
 
 ## 🎯 Foco atual
 
@@ -31,8 +31,8 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 ## 🔭 O que estou aprendendo 📔📖
 
 1.  Criando **dashboards interativos** Google sheets e Excel
-2.  CRM/ ERP - criando base de dados e erros mais comuns
-3.  Help-desk - Criando base de dados e simulações de uso
+2.  CRM/ ERP - **criando base de dados e erros mais comuns**
+3.  Help-desk - **Criando base de dados e simulações de uso**
 
 ---
 
@@ -54,7 +54,7 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 
 ---
 
-#CRM/ERP
+## CRM/ERP
 
 ![Dolibarr](https://img.shields.io/badge/Dolibarr-ERP%20%2F%20CRM-0072C6?logo=opensourceinitiative&logoColor=white)
 ![EspoCRM](https://img.shields.io/badge/EspoCRM-CRM-2E7D32?logo=php&logoColor=white)
