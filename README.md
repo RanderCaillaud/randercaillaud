@@ -34,9 +34,31 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 2.  CRM/ ERP - criando base de dados e erros mais comuns
 3.  Help-desk - Criando base de dados e simulações de uso
 
-### 🛠️ Linguagens e Frameworks
+---
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## Ambiente local
+
+![Laragon](https://img.shields.io/badge/Laragon-Local%20Environment-0E83CD?logo=windows-terminal&logoColor=white)
+![WampServer](https://img.shields.io/badge/WampServer-Local%20Server-blue?logo=windows&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-Web%20Server-D22128?logo=apache&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?logo=php&logoColor=white)
+
+---
+## Help Desk
+
+![osTicket](https://img.shields.io/badge/osTicket-Helpdesk-009688?logo=opensourceinitiative&logoColor=white)
+![Hesk](https://img.shields.io/badge/Hesk-Helpdesk-1E88E5?logo=php&logoColor=white)
+![UVdesk](https://img.shields.io/badge/UVdesk-Helpdesk-6A1B9A?logo=symfony&logoColor=white)
+![Papercups](https://img.shields.io/badge/Papercups-Customer%20Support-FF6F00?logo=chatbot&logoColor=white)
+
+---
+
+#CRM/ERP
+
+![Dolibarr](https://img.shields.io/badge/Dolibarr-ERP%20%2F%20CRM-0072C6?logo=opensourceinitiative&logoColor=white)
+![EspoCRM](https://img.shields.io/badge/EspoCRM-CRM-2E7D32?logo=php&logoColor=white)
+![SuiteCRM](https://img.shields.io/badge/SuiteCRM-CRM-D32F2F?logo=sugarcrm&logoColor=white)
 
 ---
 
@@ -52,21 +74,13 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 
 ### 🛠️ Ferramentas
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-![Laragon](https://img.shields.io/badge/Laragon-777BB4?style=for-the-badge)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![WampServer](https://img.shields.io)
 
-### 🤖 ⚙️  ✨ Automação
-![SMTP](https://img.shields.io/badge/Email_Automation-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
-![VBA & Macros](https://img.shields.io/badge/-VBA%20%26%20Macros-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+---
 
 ## 📊 Estatísticas GitHub
 <div align="center">
@@ -74,10 +88,14 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=randercaillaud&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+---
+
 ## 🔥 GitHub Streak
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=randercaillaud&theme=dracula" alt="GitHub Streak"/>
 </div>
+
+---
 
 ## 📫 Onde me Encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/randercaillaud/)
