@@ -30,8 +30,9 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 
 ## 🔭 O que estou aprendendo 📔📖
 
-1. Estudando **Python e bibliotecas**: `pandas`, `numpy`,`Django`,`matplotlib`,`SQL`, Ferramenta de Visualização
-2.  Criando **dashboards interativos** no PowerBI, Google LookerStudio, Google sheets e Excel
+1.  Criando **dashboards interativos** Google sheets e Excel
+2.  CRM/ ERP - criando base de dados e erros mais comuns
+3.  Help-desk - Criando base de dados e simulações de uso
 
 ### 🛠️ Linguagens e Frameworks
 
