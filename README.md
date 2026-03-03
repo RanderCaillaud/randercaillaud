@@ -32,9 +32,8 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 
 ### 🔭 O que estou aprendendo 📔📖
 
-1.  Criando **dashboards interativos** Google sheets e Excel
-2.  CRM/ ERP - **criando base de dados e erros mais comuns**
-3.  Help-desk - **Criando base de dados e simulações de uso**
+1.  CRM/ ERP - **criando base de dados e erros mais comuns**
+2.  Help-desk - **Criando base de dados e simulações de uso**
 
 ---
 
