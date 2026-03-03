@@ -34,6 +34,8 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 
 1.  CRM/ ERP - **criando base de dados e erros mais comuns**
 2.  Help-desk - **Criando base de dados e simulações de uso**
+3.  SQL - **Modelagem de banco de dados e SQL aplicado aos sistemas**
+
 
 ---
 
