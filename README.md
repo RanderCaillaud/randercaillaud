@@ -23,10 +23,10 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 
 | Repositório | Descrição | Status |
 |---|---|---|
-| [ambiente-local-lab](https://github.com/RanderCaillaud/ambiente-local-lab) | Configuração de servidor web local com Laragon e WampServer |📋 Disponível |
+| [ambiente-local-lab](https://github.com/RanderCaillaud/ambiente-local-lab) | Configuração de servidor web local com Laragon e WampServer |✅ Concluído e em processo de atualização |
 | [helpdesk-lab](https://github.com/RanderCaillaud/helpdesk-lab) | Instalação e configuração de sistemas de helpdesk opensource | 🔄 Em implementação |
 | [erp-crm-lab](https://github.com/RanderCaillaud/erp-crm-lab) | Instalação e configuração de sistemas ERP e CRM opensource | 🔄 Em implementação |
-| [perfil-profissional](https://github.com/RanderCaillaud/perfil-profissional) | Currículo, objetivo profissional e apresentação | 📋 Disponível |
+| [perfil-profissional](https://github.com/RanderCaillaud/perfil-profissional) | Currículo, objetivo profissional e apresentação | ✅ Concluído |
 
 ---
 
