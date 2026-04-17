@@ -1,6 +1,6 @@
 ### Olá!!! Seja bem vindo ao meu Perfil!!! 👋
 
-Eu sou Rander Caillaud. Sou um profissional **administrativo-tech** em transição de carreira, com foco em **Suporte Técnico Júnior, CRM, ERP e Helpdesk**.
+Eu sou Rander Caillaud. Sou um profissional **administrativo-tech** em transição de carreira, com foco em **Suporte Técnico Júnior, SAC, Assistente administrativo e Backoffice, CRM, ERP, Helpdesk e Service Desk**.
 
 Aprendo mais **fazendo do que lendo**  então tudo que estudo vira prática, e tudo que pratico vira documentação. Sou curioso por natureza, resolvo problemas de forma analítica e criativa, e tenho um certo prazer em deixar tudo organizado para não se perder e para que outros também possam aprender.
 
