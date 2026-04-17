@@ -15,7 +15,7 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 | 🖥️ Ambiente Local | Laragon, WampServer, Apache, PHP, MySQL |
 | 🎫 Helpdesk | osTicket, Hesk, Freescout |
 | 📊 ERP / CRM | Dolibarr, ESPO CRM, SuiteCRM |
-| 🖥️ 👩🏻‍💻 🌐 🎫 | Service Desk |GLPI|
+| 🖥️ 👩🏻‍💻 🌐 🎫  Service Desk | GLPI|
 
 ---
 
