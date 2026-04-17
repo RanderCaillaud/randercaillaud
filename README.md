@@ -13,9 +13,9 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 | Área | O que estou estudando |
 |---|---|
 | 🖥️ Ambiente Local | Laragon, WampServer, Apache, PHP, MySQL |
-| 🎫 Helpdesk | osTicket, Hesk, UVdesk, Papercups |
+| 🎫 Helpdesk | osTicket, Hesk, Freescout |
 | 📊 ERP / CRM | Dolibarr, ESPO CRM, SuiteCRM |
-
+| 🖥️ 👩🏻‍💻 🌐 🎫 | Service Desk |GLPI|
 
 ---
 
@@ -26,7 +26,9 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 | [ambiente-local-lab](https://github.com/RanderCaillaud/ambiente-local-lab) | Configuração de servidor web local com Laragon e WampServer |✅ Concluído e em processo de atualização |
 | [helpdesk-lab](https://github.com/RanderCaillaud/helpdesk-lab) | Instalação e configuração de sistemas de helpdesk opensource | 🔄 Em implementação |
 | [erp-crm-lab](https://github.com/RanderCaillaud/erp-crm-lab) | Instalação e configuração de sistemas ERP e CRM opensource | 🔄 Em implementação |
-| [perfil-profissional](https://github.com/RanderCaillaud/perfil-profissional) | Currículo, objetivo profissional e apresentação | ✅ Concluído |
+| [perfil-profissional](https://github.com/RanderCaillaud/perfil-profissional) | Currículo, objetivo profissional e apresentação | ✅ Concluído e em atualização |
+opensource | 🔄 Em implementação |
+| [Service Desk-lab](https://github.com/RanderCaillaud/Service_Desk_lab/) | Instalação e configuração de sistemas Service Desk opensource | 🔄 Em implementação |
 
 ---
 
@@ -35,7 +37,7 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 1.  CRM/ ERP - **criando base de dados e erros mais comuns**
 2.  Help-desk - **Criando base de dados e simulações de uso**
 3.  SQL - **Modelagem de banco de dados e SQL aplicado aos sistemas**
-
+4.  Fluxo de Processo - **Modelagem de processo de negócios**
 
 ---
 
@@ -53,8 +55,7 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 
 ![osTicket](https://img.shields.io/badge/osTicket-Helpdesk-009688?logo=opensourceinitiative&logoColor=white)
 ![Hesk](https://img.shields.io/badge/Hesk-Helpdesk-1E88E5?logo=php&logoColor=white)
-![UVdesk](https://img.shields.io/badge/UVdesk-Helpdesk-6A1B9A?logo=symfony&logoColor=white)
-![Papercups](https://img.shields.io/badge/Papercups-Customer%20Support-FF6F00?logo=chatbot&logoColor=white)
+![FreeScout](https://img.shields.io/badge/FreeScout-Email%20Support%20System-00A4EF?style=flat-square&logo=mail&logoColor=white) 
 
 ---
 
@@ -63,6 +64,12 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 ![Dolibarr](https://img.shields.io/badge/Dolibarr-ERP%20%2F%20CRM-0072C6?logo=opensourceinitiative&logoColor=white)
 ![EspoCRM](https://img.shields.io/badge/EspoCRM-CRM-2E7D32?logo=php&logoColor=white)
 ![SuiteCRM](https://img.shields.io/badge/SuiteCRM-CRM-D32F2F?logo=sugarcrm&logoColor=white)
+
+---
+
+### 🖥️ 👩🏻‍💻 🌐 🎫 Service Desk 
+
+![GLPI](https://img.shields.io/badge/GLPI-IT%20Service%20Management-0066CC?style=flat-square&logo=server&logoColor=white)
 
 ---
 
