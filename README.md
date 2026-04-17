@@ -23,20 +23,22 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 
 | Repositório | Descrição | Status |
 |---|---|---|
+| [perfil-profissional](https://github.com/RanderCaillaud/perfil-profissional) | Currículo, objetivo profissional e apresentação | ✅ Concluído e em atualização |
 | [ambiente-local-lab](https://github.com/RanderCaillaud/ambiente-local-lab) | Configuração de servidor web local com Laragon e WampServer |✅ Concluído e em processo de atualização |
 | [helpdesk-lab](https://github.com/RanderCaillaud/helpdesk-lab) | Instalação e configuração de sistemas de helpdesk opensource | 🔄 Em implementação |
 | [erp-crm-lab](https://github.com/RanderCaillaud/erp-crm-lab) | Instalação e configuração de sistemas ERP e CRM opensource | 🔄 Em implementação |
-| [perfil-profissional](https://github.com/RanderCaillaud/perfil-profissional) | Currículo, objetivo profissional e apresentação | ✅ Concluído e em atualização |
 | [Service Desk-lab](https://github.com/RanderCaillaud/Service_Desk_lab/) | Instalação e configuração de sistemas Service Desk opensource | 🔄 Em implementação |
 
 ---
 
 ### 🔭 O que estou aprendendo 📔📖
 
-1.  CRM/ ERP - **criando base de dados e erros mais comuns**
-2.  Help-desk - **Criando base de dados e simulações de uso**
-3.  SQL - **Modelagem de banco de dados e SQL aplicado aos sistemas**
-4.  Fluxo de Processo - **Modelagem de processo de negócios**
+1.  Network - **fundamentos de redes, local host, powershell e segurança/ backup em localhost**
+2.  SQL - **Modelagem de banco de dados e SQL aplicado aos sistemas**
+3.  Fluxo de Processo - **Modelagem de processo de negócios**
+4.  Help-desk - **Criando base de dados e simulações de uso**
+5.  CRM/ ERP - **criando base de dados e erros mais comuns**
+6.  Serive Desk - **Criação de base de dados, simulação de uso e solitação entre equipes**
 
 ---
 
