@@ -27,7 +27,6 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 | [helpdesk-lab](https://github.com/RanderCaillaud/helpdesk-lab) | Instalação e configuração de sistemas de helpdesk opensource | 🔄 Em implementação |
 | [erp-crm-lab](https://github.com/RanderCaillaud/erp-crm-lab) | Instalação e configuração de sistemas ERP e CRM opensource | 🔄 Em implementação |
 | [perfil-profissional](https://github.com/RanderCaillaud/perfil-profissional) | Currículo, objetivo profissional e apresentação | ✅ Concluído e em atualização |
-opensource | 🔄 Em implementação |
 | [Service Desk-lab](https://github.com/RanderCaillaud/Service_Desk_lab/) | Instalação e configuração de sistemas Service Desk opensource | 🔄 Em implementação |
 
 ---
