@@ -63,8 +63,6 @@ Estou construindo um laboratório local de sistemas de gestão e suporte, docume
 ### 👨🏻‍💻 CRM/ERP
 
 ![Dolibarr](https://img.shields.io/badge/Dolibarr-ERP%20%2F%20CRM-0072C6?logo=opensourceinitiative&logoColor=white)
-![EspoCRM](https://img.shields.io/badge/EspoCRM-CRM-2E7D32?logo=php&logoColor=white)
-![SuiteCRM](https://img.shields.io/badge/SuiteCRM-CRM-D32F2F?logo=sugarcrm&logoColor=white)
 
 ---
 
