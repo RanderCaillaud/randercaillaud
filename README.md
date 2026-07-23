@@ -24,9 +24,9 @@ Building a local lab documenting installation, configuration, errors and solutio
 
 | Área (Area)  | O que estou estudando (What I'm studying) |
 |---|---|
-| 🖥️ Ambiente Local (Local Environment ) | Laragon, WampServer, Apache, PHP, MySQL |
-| 🎫 Helpdesk | osTicket, Hesk, Freescout |
-| 📊 ERP / CRM | Dolibarr, SuiteCRM, espoCRM|
+| 🖥️ Ambiente Local (Local Environment ) | Laragon, Apache, PHP, MySQL, Visual Studio Code, Bruno, PowerShell |
+| 🎫 Helpdesk | osTicket e Freescout |
+| 📊 ERP / CRM | Dolibarr e espoCRM|
 | 🖥️ 👩🏻‍💻 🌐 🎫  Service Desk | GLPI|
 | 👥 HR Systems | OrangeHRM | 👥 Sistemas de RH | OrangeHRM |
 
@@ -73,39 +73,21 @@ Building a local lab documenting installation, configuration, errors and solutio
 | Portuguese | Native | Português | Nativo |
 | English | A1 — Basic | Inglês | A1 — Básico |
 
-
-
-### 📦 🖥️ 💻🔑🛡 Ambiente local | Local Environment
-
-![Laragon](https://img.shields.io/badge/Laragon-Local%20Environment-0E83CD?logo=windows-terminal&logoColor=white)
-![WampServer](https://img.shields.io/badge/WampServer-Local%20Server-blue?logo=windows&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-Web%20Server-D22128?logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?logo=php&logoColor=white)
-
 ---
-### 📦 Local Environment | Ambiente Local
+### 📦 🖥️ 💻🔑🛡 Local Environment | Ambiente Local
 
 ![Laragon](https://img.shields.io/badge/Laragon-Local%20Environment-0E83CD?logo=windows-terminal&logoColor=white)
-![WampServer](https://img.shields.io/badge/WampServer-Local%20Server-blue?logo=windows&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-Web%20Server-D22128?logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?logo=php&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ------
 
-### 📶📊📈 Help Desk
+### 🎫 🖥️ 👩🏻‍💻 📶 📊 🌐 Helpdesk & Service Desk
 
 ![osTicket](https://img.shields.io/badge/osTicket-Helpdesk-009688?logo=opensourceinitiative&logoColor=white)
-![Hesk](https://img.shields.io/badge/Hesk-Helpdesk-1E88E5?logo=php&logoColor=white)
-![FreeScout](https://img.shields.io/badge/FreeScout-Email%20Support%20System-00A4EF?style=flat-square&logo=mail&logoColor=white) 
-
----
-### 🎫 Helpdesk & Service Desk
-
-![osTicket](https://img.shields.io/badge/osTicket-Helpdesk-009688?logo=opensourceinitiative&logoColor=white)
-![Hesk](https://img.shields.io/badge/Hesk-Helpdesk-1E88E5?logo=php&logoColor=white)
 ![FreeScout](https://img.shields.io/badge/FreeScout-Email%20Support%20System-00A4EF?style=flat-square&logo=mail&logoColor=white)
 ![GLPI](https://img.shields.io/badge/GLPI-IT%20Service%20Management-0066CC?style=flat-square&logo=server&logoColor=white)
 
@@ -114,15 +96,8 @@ Building a local lab documenting installation, configuration, errors and solutio
 ### 👨🏻‍💻 CRM/ERP/HR
 
 ![Dolibarr](https://img.shields.io/badge/Dolibarr-ERP%20%2F%20CRM-0072C6?logo=opensourceinitiative&logoColor=white)
-![SuiteCRM](https://img.shields.io/badge/SuiteCRM-ERP%20%26%20CRM-00A3E0?style=for-the-badge&logo=suitecrm&logoColor=white)
 ![EspoCRM](https://img.shields.io/badge/EspoCRM-CRM-00A3E0?style=for-the-badge&logo=espocrm&logoColor=white)
 ![OrangeHRM](https://img.shields.io/badge/OrangeHRM-HR%20System-FF6600?logo=opensourceinitiative&logoColor=white)
-
----
-
-### 🖥️ 👩🏻‍💻 🌐 🎫 Service Desk 
-
-![GLPI](https://img.shields.io/badge/GLPI-IT%20Service%20Management-0066CC?style=flat-square&logo=server&logoColor=white)
 
 ---
 
@@ -135,9 +110,13 @@ Building a local lab documenting installation, configuration, errors and solutio
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🛠️   Ferramenta de Dados | Tools Data 
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ---
 
