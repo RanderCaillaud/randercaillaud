@@ -26,26 +26,18 @@ I learn best by **doing rather than reading** — everything I study turns into 
 
 **Languages & Data**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4169E1?style=for-the-badge&logo=databricks&logoColor=white)
-![DAX](https://img.shields.io/badge/-DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Business Intelligence**
 
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Local Environment & DevOps**
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Laragon](https://img.shields.io/badge/-Laragon-0E83CD?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![WampServer](https://img.shields.io/badge/-WampServer-2C4B9B?style=for-the-badge&logo=windows&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
