@@ -47,10 +47,11 @@ I learn best by **doing rather than reading** — everything I study turns into 
 **Helpdesk / Service Desk / CRM-ERP**
 
 ![osTicket](https://img.shields.io/badge/-osTicket-009688?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-![Hesk](https://img.shields.io/badge/-Hesk-1E88E5?style=for-the-badge&logo=php&logoColor=white)
 ![FreeScout](https://img.shields.io/badge/-FreeScout-00A4EF?style=for-the-badge&logo=maildotru&logoColor=white)
 ![GLPI](https://img.shields.io/badge/-GLPI-006CC3?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Dolibarr](https://img.shields.io/badge/-Dolibarr-0072C6?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![EspoCRM](https://img.shields.io/badge/EspoCRM-CRM-00A3E0?style=for-the-badge&logo=espocrm&logoColor=white)
+![OrangeHRM](https://img.shields.io/badge/OrangeHRM-HR%20System-FF6600?logo=opensourceinitiative&logoColor=white)
 
 **Tools**
 
