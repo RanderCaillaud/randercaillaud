@@ -89,15 +89,10 @@ I learn best by **doing rather than reading** — everything I study turns into 
 
 ---
 
-## 📊 GitHub Stats
-
+### 🔥 GitHub Streak
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RanderCaillaud&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RanderCaillaud&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RanderCaillaud&theme=radical&hide_border=true&background=0D1117)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=randercaillaud&theme=dracula" alt="GitHub Streak"/>
+</div>
 </div>
 
 ---
