@@ -12,7 +12,7 @@ I learn best by **doing rather than reading** — everything I study turns into 
 
 | Area | What I'm studying / using |
 |---|---|
-| 🖥️ Local Environment | Laragon, WampServer, XAMPP, Apache, MySQL, PostgreSQL |
+| 🖥️ Local Environment | Laragon, WampServer, XAMPP, Apache, MySQL |
 | 🎫 Helpdesk | osTicket, Hesk, FreeScout |
 | 📊 ERP / CRM | Dolibarr, CRM Analysis |
 | 🛎️ Service Desk | GLPI |
