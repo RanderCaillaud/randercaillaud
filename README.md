@@ -12,11 +12,11 @@ Aprendo mais **fazendo do que lendo** — tudo que estudo vira prática, e tudo 
 
 | Área | O que estou estudando / usando |
 |---|---|
-| 🖥️ Ambiente Local | Laragon, WampServer, XAMPP, Apache, MySQL, PostgreSQL |
-| 🎫 Helpdesk | osTicket, Hesk, FreeScout |
-| 📊 ERP / CRM | Dolibarr, Análise de CRM |
+| 🖥️ Ambiente Local | Laragon, WampServer, XAMPP, Apache, MySQL |
+| 🎫 Helpdesk | osTicket, FreeScout |
+| 📊 ERP / CRM | Dolibarr, Análise de CRM, ESPOCRM |
 | 🛎️ Service Desk | GLPI |
-| 📈 BI & Dados | Power BI, Looker Studio, DAX, Excel |
+| 📈 BI & Dados | Googlesheet |
 
 ---
 
@@ -31,7 +31,7 @@ Aprendo mais **fazendo do que lendo** — tudo que estudo vira prática, e tudo 
 
 **Business Intelligence**
 
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 **Banco de Dados**
 
@@ -60,7 +60,6 @@ Aprendo mais **fazendo do que lendo** — tudo que estudo vira prática, e tudo 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Bruno](https://img.shields.io/badge/-Bruno-FF6B35?style=for-the-badge)
-![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
