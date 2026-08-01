@@ -1,30 +1,30 @@
-🌏 **Português** | [English](README.en.md)
+🌏 [Português](README.md) | **English**
 
-# Olá! Eu sou Rander Caillaud 👋
+# Hi! I'm Rander Caillaud 👋
 
-Sou um profissional **administrativo-tech** em transição de carreira, com foco em **Suporte Técnico Júnior, SAC, Assistente Administrativo, Backoffice, CRM, ERP, Helpdesk e Service Desk**.
+I'm an **administrative-tech** professional in career transition, focused on **Junior Technical Support, Customer Service, Administrative Assistance, Backoffice, CRM, ERP, Helpdesk and Service Desk**.
 
-Aprendo mais **fazendo do que lendo** — tudo que estudo vira prática, e tudo que pratico vira documentação. Sou curioso por natureza, resolvo problemas de forma analítica e criativa, e gosto de manter tudo organizado para não me perder e para que outras pessoas também possam aprender com o processo.
+I learn best by **doing rather than reading** — everything I study turns into practice, and everything I practice turns into documentation. I'm naturally curious, I solve problems in an analytical and creative way, and I like keeping things organized so I don't lose track — and so others can learn from the process too.
 
 ---
 
-## 🎯 Foco Atual
+## 🎯 Current Focus
 
-| Área | O que estou estudando / usando |
+| Area | What I'm studying / using |
 |---|---|
-| 🖥️ Ambiente Local | Laragon, WampServer, XAMPP, Apache, MySQL, PostgreSQL |
+| 🖥️ Local Environment | Laragon, WampServer, XAMPP, Apache, MySQL, PostgreSQL |
 | 🎫 Helpdesk | osTicket, Hesk, FreeScout |
-| 📊 ERP / CRM | Dolibarr, Análise de CRM |
+| 📊 ERP / CRM | Dolibarr, CRM Analysis |
 | 🛎️ Service Desk | GLPI |
-| 📈 BI & Dados | Power BI, Looker Studio, DAX, Excel |
+| 📈 BI & Data | Power BI, Looker Studio, DAX, Excel |
 
 ---
 
-## 🧰 Stack Técnica
+## 🧰 Tech Stack
 
 <div align="center">
 
-**Linguagens & Dados**
+**Languages & Data**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,12 +38,12 @@ Aprendo mais **fazendo do que lendo** — tudo que estudo vira prática, e tudo 
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
-**Banco de Dados**
+**Databases**
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Ambiente Local & DevOps**
+**Local Environment & DevOps**
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Laragon](https://img.shields.io/badge/-Laragon-0E83CD?style=for-the-badge&logo=windowsterminal&logoColor=white)
@@ -60,7 +60,7 @@ Aprendo mais **fazendo do que lendo** — tudo que estudo vira prática, e tudo 
 ![GLPI](https://img.shields.io/badge/-GLPI-006CC3?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Dolibarr](https://img.shields.io/badge/-Dolibarr-0072C6?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
-**Ferramentas**
+**Tools**
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -74,30 +74,30 @@ Aprendo mais **fazendo do que lendo** — tudo que estudo vira prática, e tudo 
 
 ---
 
-## 🗂️ Repositórios
+## 🗂️ Repositories
 
-| Repositório | Descrição | Status |
+| Repository | Description | Status |
 |---|---|---|
-| [perfil-profissional](https://github.com/RanderCaillaud/perfil-profissional) | Currículo, objetivo profissional e apresentação | ✅ Concluído e em atualização |
-| [ambiente-local-lab](https://github.com/RanderCaillaud/ambiente-local-lab) | Configuração de servidor web local com Laragon e WampServer | ✅ Concluído e em processo de atualização |
-| [helpdesk-lab](https://github.com/RanderCaillaud/helpdesk-lab) | Instalação e configuração de sistemas de helpdesk opensource | 🔄 Em implementação |
-| [erp-crm-lab](https://github.com/RanderCaillaud/erp-crm-lab) | Instalação e configuração de sistemas ERP e CRM opensource | 🔄 Em implementação |
-| [Service_Desk_lab](https://github.com/RanderCaillaud/Service_Desk_lab) | Instalação e configuração de sistemas Service Desk opensource | 🔄 Em implementação |
+| [perfil-profissional](https://github.com/RanderCaillaud/perfil-profissional) | Resume, professional goals and presentation | ✅ Completed, ongoing updates |
+| [ambiente-local-lab](https://github.com/RanderCaillaud/ambiente-local-lab) | Local web server setup with Laragon and WampServer | ✅ Completed, ongoing updates |
+| [helpdesk-lab](https://github.com/RanderCaillaud/helpdesk-lab) | Installation and configuration of open-source helpdesk systems | 🔄 In progress |
+| [erp-crm-lab](https://github.com/RanderCaillaud/erp-crm-lab) | Installation and configuration of open-source ERP and CRM systems | 🔄 In progress |
+| [Service_Desk_lab](https://github.com/RanderCaillaud/Service_Desk_lab) | Installation and configuration of open-source Service Desk systems | 🔄 In progress |
 
 ---
 
-## 📚 Em Aprendizado
+## 📚 Currently Learning
 
-1. **Redes** — fundamentos de rede, localhost, PowerShell e segurança/backup local
-2. **SQL** — modelagem de banco de dados e SQL aplicado a sistemas
-3. **BPMN** — modelagem de processos de negócio
-4. **Helpdesk** — criação de base de dados e simulações de uso
-5. **CRM / ERP** — modelagem de dados e tratamento de erros comuns
-6. **Service Desk** — base de dados, simulação de uso e fluxo entre equipes
+1. **Networking** — network fundamentals, localhost, PowerShell and local security/backup
+2. **SQL** — database modeling and SQL applied to systems
+3. **BPMN** — business process modeling
+4. **Helpdesk** — database creation and usage simulations
+5. **CRM / ERP** — data modeling and handling of common errors
+6. **Service Desk** — database, usage simulation and cross-team workflow
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -110,7 +110,7 @@ Aprendo mais **fazendo do que lendo** — tudo que estudo vira prática, e tudo 
 
 ---
 
-## 📫 Onde me Encontrar
+## 📫 Where to Find Me
 
 <div align="center">
 
@@ -123,20 +123,20 @@ Aprendo mais **fazendo do que lendo** — tudo que estudo vira prática, e tudo 
 
 ---
 
-## 💭 Sobre Mim
+## 💭 About Me
 
-- 📍 Rio de Janeiro, RJ — Méier
-- 🔍 Curioso por natureza — se não entendo algo, vou fundo até entender
-- 🛠️ Aprendo fazendo — teoria sem prática não me convence
-- 📝 Documento tudo — organização é parte do processo
-- 🧩 Resolvo problemas de forma analítica e criativa
-- 🎌 Apaixonado por cultura japonesa, anime e tokusatsu
-- 🎸 Fã de rock pesado (indiano, japonês, europeu e americano)
+- 📍 Rio de Janeiro, Brazil — Méier
+- 🔍 Naturally curious — if I don't understand something, I dig until I do
+- 🛠️ I learn by doing — theory without practice doesn't convince me
+- 📝 I document everything — organization is part of the process
+- 🧩 I solve problems in an analytical and creative way
+- 🎌 Passionate about Japanese culture, anime and tokusatsu
+- 🎸 Heavy rock fan (Indian, Japanese, European and American)
 
 ---
 
 <div align="center">
 
-**"Dados são o novo petróleo, mas só têm valor quando refinados em insights acionáveis."**
+**"Data is the new oil, but it only has value once refined into actionable insights."**
 
 </div>
