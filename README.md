@@ -12,11 +12,11 @@ Aprendo mais **fazendo do que lendo** — tudo que estudo vira prática, e tudo 
 
 | Área | O que estou estudando / usando |
 |---|---|
-| 🖥️ Ambiente Local | Laragon, WampServer, XAMPP, Apache, MySQL |
+| 🖥️ Local Environment | Laragon, WampServer, XAMPP, Apache, MySQL |
 | 🎫 Helpdesk | osTicket, FreeScout |
-| 📊 ERP / CRM | Dolibarr, Análise de CRM, ESPOCRM |
+| 📊 ERP / CRM/ HRM | Dolibarr, CRM Analysis, ESPOCRM, Orange Human Resources Management |
 | 🛎️ Service Desk | GLPI |
-| 📈 BI & Dados | Googlesheet |
+| 📈 BI & Data | GOOGLESHEET |
 
 ---
 
