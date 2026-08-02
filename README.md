@@ -14,7 +14,7 @@ Aprendo mais **fazendo do que lendo** — tudo que estudo vira prática, e tudo 
 |---|---|
 | 🖥️ Local Environment | Laragon, WampServer, XAMPP, Apache, MySQL |
 | 🎫 Helpdesk | osTicket, FreeScout |
-| 📊 ERP / CRM/ HRM | Dolibarr, CRM Analysis, ESPOCRM, Orange HRM |
+| 📊 ERP / CRM/ HRM | Dolibarr, CRM Analysis, ESPOCRM, OrangeHRM |
 | 🛎️ Service Desk | GLPI |
 | 📈 BI & Data | GOOGLESHEET |
 
