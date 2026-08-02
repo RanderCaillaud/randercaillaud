@@ -14,7 +14,7 @@ I learn best by **doing rather than reading** — everything I study turns into 
 |---|---|
 | 🖥️ Local Environment | Laragon, WampServer, XAMPP, Apache, MySQL |
 | 🎫 Helpdesk | osTicket, FreeScout |
-| 📊 ERP / CRM/ HRM | Dolibarr, CRM Analysis, ESPOCRM, Orange Human Resources Management |
+| 📊 ERP / CRM/ HRM | Dolibarr, CRM Analysis, ESPOCRM, OrangeHRM |
 | 🛎️ Service Desk | GLPI |
 | 📈 BI & Data | GOOGLESHEET |
 
